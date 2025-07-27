@@ -1,0 +1,23 @@
+MIT License
+
+Copyright (c) 2025 Reale Group
+
+This repository contains visual materials (screenshots) of the "Registro Elettronico" project, a proprietary internal application developed by Reale Group.
+
+- **Backend Development Team**:
+  - Lorenzo Torres <lorenzo.torres@edu-its.it>  
+  - Artem Bulgakov <artem.bulgakov@edu-its.it>  
+  - Andrea Scarrone <andrea.scarrone@edu-its.it>
+  - Matteo Cai <matteo.cai@edu-its.it>
+  - Francesco Ciancaglini <francesco.ciancaglini@edu-its.it>
+
+
+- **Frontend Development under Supervision**:
+  - Artem Bulgakov <artem.bulgakov@edu-its.it> (developer)
+  - Emanuele Fricano <emanuele.fricano@realeites.com> (supervisor)
+
+The source code is not publicly available. For inquiries, please contact the development team or Reale Group directly.
+
+
+
+
