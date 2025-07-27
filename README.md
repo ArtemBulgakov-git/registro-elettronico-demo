@@ -82,6 +82,6 @@ For inquiries, please contact the development team or Reale Group directly.
 ---
 
 ## 🔗 Links / Collegamenti  
-- **LinkedIn Project Page:** [il link al progetto su LinkedIn]  
+- **LinkedIn Project Page:** [https://www.linkedin.com/in/artem-bulgakov-8a5171227/]  
 - **Team ITS Reale ITES:** [https://www.realegroup.eu/it](https://www.realegroup.eu/IT/corporate/gruppo-e-organi-sociali/servizi/reale-ites-srl)
 
